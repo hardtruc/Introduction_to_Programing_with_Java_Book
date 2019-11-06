@@ -1,3 +1,5 @@
+//1.Декларирайте най-подходящия  от  типовете byte, short, intи long,  за  да  представят следните стойности:
+//52130; -115; 4825932; 97; -10000.
 package com.company;
 public class Task1 {
     public static void main (String[] args){
